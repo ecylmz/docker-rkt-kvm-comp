@@ -1,0 +1,15 @@
+#cloud-config
+users:
+  - name: ecylmz
+    gecos: Ecylmz
+    groups: users
+    lock_passwd: false
+    sudo: ALL=(ALL) NOPASSWD:ALL
+    passwd: $6$tkiKIUjZ29KZ$9MboMl4MdrgjxdYwtKp9al0Bkru15N5oGYpNT7QJn6dFbr0T0mdLTE7cdf.qP2V8pEXZNtAEXILRWKPqkUr4o0
+    ssh_authorized_keys:
+      - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQD4y8fkm1NSXIsfpinieBdujY+tVAz291Z+O3uOQmnv6SyRVOiEN+JA0sSzVO3Lxnf3kvTSu8OEdgXtjzt8FjOChIfbyAfPvAx9qEbHAdAwEfVdZUeW7B/tA8wyZzIAWSzohERK/KMSeXlAkd6JoqUK6HxLdDVMbn+WWJKdxQDl/7P1YAxd/syNNOb4CJQFYRVJrTQl8FeTIo4NkPWC/7LiywSnUSRyi3WxFe6MWSDmLC/cuX1AAjvr/8z2iINmVuY4dg9H5oS2O0qAfXivm5JmkjDELLCYMsLT6/R6kThDvEfCTeBnG4Dn9L1RPhjUrDNe0NSYSG8yxXBRKDLF6Pkf ecylmz@slark
+
+bootcmd:
+    - ifconfig eth1 192.168.122.99/24 up
+
+final_message: "..."

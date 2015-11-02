@@ -1,0 +1,5 @@
+#!/bin/bash
+
+netserver -v -p 12865
+
+while true; do echo running netserver; sleep 15; done

@@ -1,0 +1,10 @@
+FROM tutum/ubuntu
+
+MAINTAINER Emre Can Yılmaz, ecylmz@bil.omu.edu.tr
+
+RUN apt-get install -y nuttcp
+
+EXPOSE 5000
+EXPOSE 5001
+
+CMD ["nuttcp", "-t", "192.168.88.103"]
