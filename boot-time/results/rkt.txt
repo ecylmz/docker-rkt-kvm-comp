@@ -1,0 +1,302 @@
+/etc/localtime is not a symlink, not updating container timezone.
+=> Setting a random password to the root user
+=> Done!
+========================================================================
+You can now connect to this Ubuntu container via SSH using:
+
+    ssh -p <port> root@<host>
+and enter the root password 'QBtBzJtGy1VZ' when prompted
+
+Please remember to change the above password as soon as possible!
+========================================================================
+Sending SIGTERM to remaining processes...
+Sending SIGKILL to remaining processes...
+Unmounting file systems.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/pts.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/shm.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/sys.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/proc.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/console.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/tty.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/urandom.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/random.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/full.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/zero.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/null.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs.
+Unmounting /proc/sys/kernel/random/boot_id.
+All filesystems unmounted.
+Halting system.
+0:11.73 real,5.90 user,0.80 sys
+/etc/localtime is not a symlink, not updating container timezone.
+=> Setting a random password to the root user
+=> Done!
+========================================================================
+You can now connect to this Ubuntu container via SSH using:
+
+    ssh -p <port> root@<host>
+and enter the root password '9qzpvyhCr3wE' when prompted
+
+Please remember to change the above password as soon as possible!
+========================================================================
+Sending SIGTERM to remaining processes...
+Sending SIGKILL to remaining processes...
+Unmounting file systems.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/pts.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/shm.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/sys.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/proc.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/console.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/tty.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/urandom.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/random.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/full.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/zero.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/null.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs.
+Unmounting /proc/sys/kernel/random/boot_id.
+All filesystems unmounted.
+Halting system.
+0:15.99 real,5.91 user,0.84 sys
+/etc/localtime is not a symlink, not updating container timezone.
+=> Setting a random password to the root user
+=> Done!
+========================================================================
+You can now connect to this Ubuntu container via SSH using:
+
+    ssh -p <port> root@<host>
+and enter the root password 'n1zCBp6b7p8a' when prompted
+
+Please remember to change the above password as soon as possible!
+========================================================================
+Sending SIGTERM to remaining processes...
+Sending SIGKILL to remaining processes...
+Unmounting file systems.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/pts.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/shm.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/sys.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/proc.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/console.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/tty.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/urandom.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/random.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/full.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/zero.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/null.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs.
+Unmounting /proc/sys/kernel/random/boot_id.
+All filesystems unmounted.
+Halting system.
+0:15.87 real,5.93 user,0.76 sys
+/etc/localtime is not a symlink, not updating container timezone.
+=> Setting a random password to the root user
+=> Done!
+========================================================================
+You can now connect to this Ubuntu container via SSH using:
+
+    ssh -p <port> root@<host>
+and enter the root password 'oBJ18pq6LnHb' when prompted
+
+Please remember to change the above password as soon as possible!
+========================================================================
+Sending SIGTERM to remaining processes...
+Sending SIGKILL to remaining processes...
+Unmounting file systems.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/pts.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/shm.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/sys.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/proc.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/console.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/tty.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/urandom.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/random.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/full.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/zero.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/null.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs.
+Unmounting /proc/sys/kernel/random/boot_id.
+All filesystems unmounted.
+Halting system.
+0:22.17 real,6.01 user,0.77 sys
+/etc/localtime is not a symlink, not updating container timezone.
+=> Setting a random password to the root user
+=> Done!
+========================================================================
+You can now connect to this Ubuntu container via SSH using:
+
+    ssh -p <port> root@<host>
+and enter the root password 'NbqinG1VneDO' when prompted
+
+Please remember to change the above password as soon as possible!
+========================================================================
+Sending SIGTERM to remaining processes...
+Sending SIGKILL to remaining processes...
+Unmounting file systems.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/pts.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/shm.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/sys.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/proc.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/console.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/tty.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/urandom.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/random.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/full.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/zero.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/null.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs.
+Unmounting /proc/sys/kernel/random/boot_id.
+All filesystems unmounted.
+Halting system.
+0:21.12 real,5.87 user,0.78 sys
+/etc/localtime is not a symlink, not updating container timezone.
+=> Setting a random password to the root user
+=> Done!
+========================================================================
+You can now connect to this Ubuntu container via SSH using:
+
+    ssh -p <port> root@<host>
+and enter the root password 'syHcLCfl7YzJ' when prompted
+
+Please remember to change the above password as soon as possible!
+========================================================================
+Sending SIGTERM to remaining processes...
+Sending SIGKILL to remaining processes...
+Unmounting file systems.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/pts.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/shm.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/sys.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/proc.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/console.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/tty.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/urandom.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/random.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/full.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/zero.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/null.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs.
+Unmounting /proc/sys/kernel/random/boot_id.
+All filesystems unmounted.
+Halting system.
+0:21.20 real,5.95 user,0.72 sys
+/etc/localtime is not a symlink, not updating container timezone.
+=> Setting a random password to the root user
+=> Done!
+========================================================================
+You can now connect to this Ubuntu container via SSH using:
+
+    ssh -p <port> root@<host>
+and enter the root password 'qtnq7wj5Q5N6' when prompted
+
+Please remember to change the above password as soon as possible!
+========================================================================
+Sending SIGTERM to remaining processes...
+Sending SIGKILL to remaining processes...
+Unmounting file systems.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/pts.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/shm.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/sys.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/proc.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/console.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/tty.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/urandom.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/random.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/full.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/zero.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/null.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs.
+Unmounting /proc/sys/kernel/random/boot_id.
+All filesystems unmounted.
+Halting system.
+0:18.16 real,6.07 user,0.65 sys
+/etc/localtime is not a symlink, not updating container timezone.
+=> Setting a random password to the root user
+=> Done!
+========================================================================
+You can now connect to this Ubuntu container via SSH using:
+
+    ssh -p <port> root@<host>
+and enter the root password 'eAedJKLTqA2P' when prompted
+
+Please remember to change the above password as soon as possible!
+========================================================================
+Sending SIGTERM to remaining processes...
+Sending SIGKILL to remaining processes...
+Unmounting file systems.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/pts.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/shm.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/sys.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/proc.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/console.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/tty.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/urandom.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/random.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/full.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/zero.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/null.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs.
+Unmounting /proc/sys/kernel/random/boot_id.
+All filesystems unmounted.
+Halting system.
+0:17.59 real,5.93 user,0.70 sys
+/etc/localtime is not a symlink, not updating container timezone.
+=> Setting a random password to the root user
+=> Done!
+========================================================================
+You can now connect to this Ubuntu container via SSH using:
+
+    ssh -p <port> root@<host>
+and enter the root password 'B2OpI1iSUS3u' when prompted
+
+Please remember to change the above password as soon as possible!
+========================================================================
+Sending SIGTERM to remaining processes...
+Sending SIGKILL to remaining processes...
+Unmounting file systems.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/pts.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/shm.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/sys.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/proc.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/console.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/tty.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/urandom.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/random.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/full.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/zero.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/null.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs.
+Unmounting /proc/sys/kernel/random/boot_id.
+All filesystems unmounted.
+Halting system.
+0:16.99 real,5.95 user,0.70 sys
+/etc/localtime is not a symlink, not updating container timezone.
+=> Setting a random password to the root user
+=> Done!
+========================================================================
+You can now connect to this Ubuntu container via SSH using:
+
+    ssh -p <port> root@<host>
+and enter the root password 'bi9LVqnlrpXv' when prompted
+
+Please remember to change the above password as soon as possible!
+========================================================================
+Sending SIGTERM to remaining processes...
+Sending SIGKILL to remaining processes...
+Unmounting file systems.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/pts.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/shm.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/sys.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/proc.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/console.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/tty.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/urandom.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/random.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/full.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/zero.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs/dev/null.
+Unmounting /opt/stage2/sha512-1a0135457bd25f013b34770fc7f19352/rootfs.
+Unmounting /proc/sys/kernel/random/boot_id.
+All filesystems unmounted.
+Halting system.
+0:19.31 real,5.97 user,0.69 sys
+
+result 0:18.013 real
